@@ -24,6 +24,9 @@ The pipeline includes:
 Note: Every component of the system supports both automated generation and manual input, enabling flexible control over the full pipeline.
 ---
 
+# Architecture
+
+Topic Generator → Script Engine → TTS Engine → Image Generator → Video Renderer → Subtitle Engine → YouTube Uploader
 
 # Installation
 
@@ -125,7 +128,11 @@ Token is stored locally after first authentication
 - Machine learning model for predicting viral performance of videos  
 - Image classification and caching system for asset reuse and optimization
 
-# Demo Output
+# Demo
 
-Example generated video:
-https://www.youtube.com/shorts/DWUkEssVlng
+Fully AI-generated video:
+
+👉 [https://youtube.com/...](https://www.youtube.com/shorts/DWUkEssVlng)
+
+This video is generated automatically by the full pipeline:
+no manual editing required.
