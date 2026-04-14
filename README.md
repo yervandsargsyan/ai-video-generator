@@ -81,15 +81,6 @@ Download client_secrets.json
 
 ## 3. Place file in project root
 
-Your project should look like:
-
-project/
- ├── client_secrets.json
- ├── main.py
- ├── .env
- ├── requirements.txt
- ├── .....
-
 # First authentication run
 
 On first upload run:
@@ -132,4 +123,9 @@ Token is stored locally after first authentication
 - Cross-platform publishing (YouTube Shorts, TikTok, Instagram Reels)  
 - Automated metadata generation (tags, titles, descriptions)  
 - Machine learning model for predicting viral performance of videos  
-- Image classification and caching system for asset reuse and optimization  
+- Image classification and caching system for asset reuse and optimization
+
+# Demo Output
+
+Example generated video:
+https://www.youtube.com/shorts/DWUkEssVlng
