@@ -119,15 +119,9 @@ client_secrets.json is required for YouTube OAuth upload
 .env must contain all API keys
 First run will trigger Google login authorization
 Token is stored locally after first authentication
-
-#  Future Improvements
-- Support for multilingual voice synthesis using local TTS models  
-- Integration of a RAG system for improved script generation accuracy  
-- Cross-platform publishing (YouTube Shorts, TikTok, Instagram Reels)  
-- Automated metadata generation (tags, titles, descriptions)  
-- Machine learning model for predicting viral performance of videos  
-- Image classification and caching system for asset reuse and optimization
-
+This is the public demo implementation of the full system.
+For access to the full extended version or collaboration inquiries, please feel free to contact me.
+E-mail: yervandsargsyan.w@gmail.com
 # Demo
 
 Fully AI-generated video:
