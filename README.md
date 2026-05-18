@@ -115,13 +115,13 @@ python -m agents.X_agent
 ```
 
 # Notes
-client_secrets.json is required for YouTube OAuth upload
-.env must contain all API keys
-First run will trigger Google login authorization
-Token is stored locally after first authentication
-This is the public demo implementation of the full system.
-For access to the full extended version or collaboration inquiries, please feel free to contact me.
-E-mail: yervandsargsyan.w@gmail.com
+client_secrets.json is required for YouTube OAuth upload  
+.env must contain all API keys  
+First run will trigger Google login authorization  
+Token is stored locally after first authentication  
+This is the public demo implementation of the full system.  
+For access to the full extended version or collaboration inquiries, please feel free to contact me.  
+Email: yervandsargsyan.w@gmail.com
 # Demo
 
 Fully AI-generated video:
